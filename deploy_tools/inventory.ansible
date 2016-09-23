@@ -1,0 +1,9 @@
+[live]
+superlists.jw
+
+[staging]
+superlists-staging.jw
+
+[local]
+localhost ansible_host=127.0.0.1
+
